@@ -50,3 +50,17 @@ LeetCode-SQL-50/
 - Window Functions
 - Ranking Functions (RANK, DENSE_RANK, ROW_NUMBER)
 - Advanced SQL Pattern
+
+---
+
+## 🎯 Goal
+
+To strengthen SQL query writing, database problem-solving skills, and improve preparation for data-related roles by solving all 50 problems from the LeetCode SQL Study Plan.
+
+---
+
+## 🔗 Reference
+
+📘 LeetCode Study Plan: Top SQL 50 
+(https://leetcode.com/studyplan/top-sql-50/)
+
