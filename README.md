@@ -64,3 +64,13 @@ To strengthen SQL query writing, database problem-solving skills, and improve pr
 📘 LeetCode Study Plan: Top SQL 50 
 (https://leetcode.com/studyplan/top-sql-50/)
 
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+
