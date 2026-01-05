@@ -86,4 +86,3 @@ There are 3 machines running 2 processes each.
 ## 📊 Runtime Performance
 
 ![Runtime Result](./runtime.png)
-
