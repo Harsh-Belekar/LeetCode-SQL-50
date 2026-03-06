@@ -52,6 +52,7 @@ Visits
 | 7        | 54          |
 | 8        | 54          |
 +----------+-------------+
+
 Transactions
 +----------------+----------+--------+
 | transaction_id | visit_id | amount |
