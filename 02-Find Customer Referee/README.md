@@ -25,7 +25,7 @@ Each row of this table indicates the id of a customer, their name, and the id of
 
 *Return the result table in any order.*
 
-The result format is in the following example.
+*The result format is in the following example.*
 
 ---
 
