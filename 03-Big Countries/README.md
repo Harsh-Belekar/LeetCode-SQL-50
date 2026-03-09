@@ -12,6 +12,7 @@
 | gdp         | bigint  |
 +-------------+---------+
 name is the primary key (column with unique values) for this table.
+
 Each row of this table gives information about the name of a country, the continent to which it belongs, its area, the population, and its GDP value.
 ```
 
