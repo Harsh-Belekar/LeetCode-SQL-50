@@ -22,6 +22,7 @@ Each row of this table contains the id and the name of an employee in a company.
 | unique_id     | int     |
 +---------------+---------+
 (id, unique_id) is the primary key (combination of columns with unique values) for this table.
+
 Each row of this table contains the id and the corresponding unique id of an employee in the company.
 ```
 
