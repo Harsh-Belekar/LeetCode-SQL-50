@@ -28,6 +28,7 @@ Note that the price is per unit.
 | product_name | varchar |
 +--------------+---------+
 product_id is the primary key (column with unique values) of this table.
+
 Each row of this table indicates the product name of each product.
 ```
 ---
