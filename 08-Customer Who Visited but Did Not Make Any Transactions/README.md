@@ -23,6 +23,7 @@ This table contains information about the customers who visited the mall.
 | amount         | int     |
 +----------------+---------+
 transaction_id is column with unique values for this table.
+
 This table contains information about the transactions made during the visit_id.
 ```
 ---
