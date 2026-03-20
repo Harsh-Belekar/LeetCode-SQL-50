@@ -11,6 +11,7 @@
 | timestamp      | float   |
 +----------------+---------+
 The table shows the user activities for a factory website.
+
 (machine_id, process_id, activity_type) is the primary key (combination of columns with unique values) of this table.
 machine_id is the ID of a machine.
 process_id is the ID of a process running on the machine with ID machine_id.
