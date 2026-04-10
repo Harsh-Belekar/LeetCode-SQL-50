@@ -30,3 +30,35 @@ No employee will be the manager of themself.
 *The result format is in the following example.*
 
 ---
+
+## 📥 Example
+
+### Input:
+``` 
+Employee table:
++-----+-------+------------+-----------+
+| id  | name  | department | managerId |
++-----+-------+------------+-----------+
+| 101 | John  | A          | null      |
+| 102 | Dan   | A          | 101       |
+| 103 | James | A          | 101       |
+| 104 | Amy   | A          | 101       |
+| 105 | Anne  | A          | 101       |
+| 106 | Ron   | B          | 101       |
++-----+-------+------------+-----------+
+```
+
+### Output:
+```
++------+
+| name |
++------+
+| John |
++------+
+```
+
+---
+
+## 📊 Runtime Performance
+
+![Runtime Result](./runtime.png)
