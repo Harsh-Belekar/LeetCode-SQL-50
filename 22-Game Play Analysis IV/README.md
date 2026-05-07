@@ -26,6 +26,7 @@ Each row is a record of a player who logged in and played a number of games (pos
 *The result format is in the following example.*
 
 ---
+
 ## 📥 Example
 
 ### Input:
